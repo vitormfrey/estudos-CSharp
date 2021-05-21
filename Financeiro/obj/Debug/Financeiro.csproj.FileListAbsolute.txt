@@ -1,0 +1,10 @@
+C:\Users\vitor\source\repos\Financeiro\Financeiro\bin\Debug\Financeiro.exe.config
+C:\Users\vitor\source\repos\Financeiro\Financeiro\bin\Debug\Financeiro.exe
+C:\Users\vitor\source\repos\Financeiro\Financeiro\bin\Debug\Financeiro.pdb
+C:\Users\vitor\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.Form1.resources
+C:\Users\vitor\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.Properties.Resources.resources
+C:\Users\vitor\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.exe
+C:\Users\vitor\source\repos\Financeiro\Financeiro\obj\Debug\Financeiro.pdb
